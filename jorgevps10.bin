@@ -9,7 +9,7 @@ RESET='\033[0m'
 # Function to display the menu header
 display_header() {
     clear
-    echo -e "${YELLOW}================================="
+    echo -e "${YELLOW}=========================================="
     echo -e "   MENU INSTALADOR WS-EPRO By @ZubZer3"
     echo -e "==========================================${RESET}"
     echo
